@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @satheeshgs, working in the domain of artificial intelligence and chatbots.
-- 👀 I’m interested in understanding the concepts around data sciences and machine learning and getting hands-on with the same. 
+- 👀 I’m always curious in understanding the concepts around machine learning and deep learning. 
 - 🌱 I’m currently learning python for data science and machine learning
 - 💞️ I’m looking to collaborate on any freelance projects on data science
 - 📫 How to reach me. Email: satheesh.gowtham@gmail.com
